@@ -8,20 +8,24 @@
       },
       {
         "Type": "Unleaded (V-Power)",
-        "Price": 68.45
+        "Price": 69.25
+      },
+      {
+        "Type": "Diesel (Regular)",
+        "Price": 64.80
       }
     ]
   },
   {
-    "Name": "Total Energies",
+    "Name": "Engen",
     "Options": [ 
       {
         "Type": "Unleaded (Regular)",
         "Price": 58.45
       },
       {
-        "Type": "Unleaded (Excellium)",
-        "Price": 61.20
+        "Type": "Diesel (Regular)",
+        "Price": 64.80
       }
     ]
   }
