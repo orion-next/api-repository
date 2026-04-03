@@ -1,10 +1,26 @@
 [
   {
     "Name": "Shell",
-    "FuelTypes": [ "Unleaded (Regular)", "Unleaded (V-Power)" ]
+    "Options": [ 
+      {
+        "Type": "Unleaded (Regular)",
+        "Price": 58.45
+      },
+      {
+        "Type:": "Unleaded (V-Power)",
+        "Price": 68.45
+      ]
   },
   {
     "Name": "Total Energies",
-    "FuelTypes": [ "Unleaded (Regular)", "Unleaded (Excellium)" ]
+    "Options": [ 
+      {
+        "Type": "Unleaded (Regular)",
+        "Price": 58.45
+      },
+      {
+        "Type:": "Unleaded (Excellium)",
+        "Price": 61.20
+      ]
   }
 ]
