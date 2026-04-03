@@ -9,7 +9,7 @@
       {
         "Type:": "Unleaded (V-Power)",
         "Price": 68.45
-      ]
+      }
   },
   {
     "Name": "Total Energies",
@@ -21,6 +21,6 @@
       {
         "Type:": "Unleaded (Excellium)",
         "Price": 61.20
-      ]
+      }
   }
 ]
