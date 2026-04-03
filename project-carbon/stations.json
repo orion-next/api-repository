@@ -1,10 +1,10 @@
 [
   {
-    "Name": "Shell"
+    "Name": "Shell",
     "FuelTypes": [ "Unleaded (Regular)", "Unleaded (V-Power)" ]
   },
   {
-    "Name": "Total Energies"
+    "Name": "Total Energies",
     "FuelTypes": [ "Unleaded (Regular)", "Unleaded (Excellium)" ]
   }
 ]
