@@ -1,0 +1,166 @@
+[
+    {
+        "Make": "Suzuki",
+        "Model": "Swift",
+        "Version": "GLX",
+        "Year": 2024,
+        "Image": "local://suzuki-swift",
+        "Components": [
+            { "Name": "Engine Oil & Filter", "Mileage": 7500, "Months": 12 },
+            { "Name": "Air Filter", "Mileage": 20000, "Months": 12 },
+            { "Name": "Spark Plugs", "Mileage": 40000, "Months": null },
+            { "Name": "Brake Pads", "Mileage": 40000, "Months": null },
+            { "Name": "Brake Fluid", "Mileage": 40000, "Months": 24 },
+            { "Name": "Tyre Rotation", "Mileage": 10000, "Months": 12 },
+            { "Name": "Tyre Replacement", "Mileage": 50000, "Months": null },
+            { "Name": "Battery (12V)", "Mileage": null, "Months": 36 },
+            { "Name": "Coolant", "Mileage": 80000, "Months": 60 },
+            { "Name": "Transmission Fluid (CVT)", "Mileage": 75000, "Months": null },
+            { "Name": "Cabin Air Filter", "Mileage": 25000, "Months": 12 },
+            { "Name": "Suspension", "Mileage": 90000, "Months": null }
+        ]
+    },
+    {
+        "Make": "Suzuki",
+        "Model": "Grand Vitara",
+        "Version": "GLX",
+        "Year": 2024,
+        "Image": "local://suzuki-grand-vitara",
+        "Components": [
+            { "Name": "Engine Oil & Filter", "Mileage": 10000, "Months": 12 },
+            { "Name": "Air Filter", "Mileage": 20000, "Months": 12 },
+            { "Name": "Spark Plugs", "Mileage": 60000, "Months": null },
+            { "Name": "Brake Pads", "Mileage": 40000, "Months": null },
+            { "Name": "Brake Fluid", "Mileage": 40000, "Months": 24 },
+            { "Name": "Tyre Rotation", "Mileage": 10000, "Months": 12 },
+            { "Name": "Tyre Replacement", "Mileage": 50000, "Months": null },
+            { "Name": "Battery (12V)", "Mileage": null, "Months": 36 },
+            { "Name": "Coolant", "Mileage": 80000, "Months": 60 },
+            { "Name": "Transmission Fluid", "Mileage": 80000, "Months": null },
+            { "Name": "Cabin Air Filter", "Mileage": 15000, "Months": 12 },
+            { "Name": "Suspension", "Mileage": 90000, "Months": null }
+        ]
+    }, 
+    {
+        "Make": "Toyota",
+        "Model": "Allion",
+        "Version": "A15",
+        "Year": 2012,
+        "Components": [
+            { "Name": "Engine Oil & Filter", "Mileage": 10000, "Months": 12 },
+            { "Name": "Air Filter", "Mileage": 20000, "Months": 12 },
+            { "Name": "Spark Plugs", "Mileage": 100000, "Months": null },
+            { "Name": "Brake Pads", "Mileage": 40000, "Months": null },
+            { "Name": "Brake Fluid", "Mileage": 40000, "Months": 24 },
+            { "Name": "Tyre Rotation", "Mileage": 10000, "Months": 12 },
+            { "Name": "Tyre Replacement", "Mileage": 50000, "Months": null },
+            { "Name": "Battery", "Mileage": null, "Months": 36 },
+            { "Name": "Coolant", "Mileage": 80000, "Months": 60 },
+            { "Name": "Transmission Fluid (CVT)", "Mileage": 60000, "Months": null },
+            { "Name": "Cabin Air Filter", "Mileage": 15000, "Months": 12 },
+            { "Name": "Suspension", "Mileage": 100000, "Months": null }
+        ]
+    },
+    {
+        "Make": "Toyota",
+        "Model": "Corolla",
+        "Version": "GR Hatchback",
+        "Year": 2020,
+        "Components": [
+            { "Name": "Engine Oil & Filter", "Mileage": 10000, "Months": 12 },
+            { "Name": "Air Filter", "Mileage": 15000, "Months": 12 },
+            { "Name": "Spark Plugs", "Mileage": 60000, "Months": null },
+            { "Name": "Brake Pads", "Mileage": 30000, "Months": null },
+            { "Name": "Brake Fluid", "Mileage": 40000, "Months": 24 },
+            { "Name": "Tyre Rotation", "Mileage": 10000, "Months": 12 },
+            { "Name": "Tyre Replacement", "Mileage": 40000, "Months": null },
+            { "Name": "Battery", "Mileage": null, "Months": 36 },
+            { "Name": "Coolant", "Mileage": 160000, "Months": 120 },
+            { "Name": "Transmission Fluid (Manual)", "Mileage": 80000, "Months": null },
+            { "Name": "Cabin Air Filter", "Mileage": 15000, "Months": 12 },
+            { "Name": "Suspension", "Mileage": 100000, "Months": null }
+        ]
+    },
+    {
+        "Make": "Toyota",
+        "Model": "Corolla",
+        "Version": "E111",
+        "Year": 2000,
+        "Components": [
+            { "Name": "Engine Oil & Filter", "Mileage": 5000, "Months": 6 },
+            { "Name": "Air Filter", "Mileage": 15000, "Months": 12 },
+            { "Name": "Spark Plugs", "Mileage": 30000, "Months": null },
+            { "Name": "Brake Pads", "Mileage": 30000, "Months": null },
+            { "Name": "Brake Fluid", "Mileage": 40000, "Months": 24 },
+            { "Name": "Tyre Rotation", "Mileage": 10000, "Months": 12 },
+            { "Name": "Tyre Replacement", "Mileage": 40000, "Months": null },
+            { "Name": "Battery", "Mileage": null, "Months": 36 },
+            { "Name": "Coolant", "Mileage": 40000, "Months": 24 },
+            { "Name": "Transmission Fluid", "Mileage": 60000, "Months": null },
+            { "Name": "Cabin Air Filter", "Mileage": 20000, "Months": 12 },
+            { "Name": "Suspension", "Mileage": 100000, "Months": null }
+        ]
+    },
+    {
+        "Make": "Nissan",
+        "Model": "Note",
+        "Version": "E-Power",
+        "Year": 2021,
+        "Components": [
+            { "Name": "Engine Oil & Filter", "Mileage": 10000, "Months": 12 },
+            { "Name": "Air Filter", "Mileage": 20000, "Months": 12 },
+            { "Name": "Spark Plugs", "Mileage": 60000, "Months": null },
+            { "Name": "Brake Pads", "Mileage": 50000, "Months": null },
+            { "Name": "Brake Fluid", "Mileage": 40000, "Months": 24 },
+            { "Name": "Tyre Rotation", "Mileage": 10000, "Months": 12 },
+            { "Name": "Tyre Replacement", "Mileage": 50000, "Months": null },
+            { "Name": "12V Battery", "Mileage": null, "Months": 36 },
+            { "Name": "High Voltage Battery Coolant", "Mileage": 80000, "Months": 60 },
+            { "Name": "Transmission Fluid (e-CVT)", "Mileage": 80000, "Months": null },
+            { "Name": "Cabin Air Filter", "Mileage": 15000, "Months": 12 },
+            { "Name": "Suspension", "Mileage": 100000, "Months": null }
+        ]
+    },
+    {
+        "Make": "Nissan",
+        "Model": "Qashqai",
+        "Version": "J11",
+        "Year": 2015,
+        "Image": "local://nissan-qashqai",
+        "Components": [
+            { "Name": "Engine Oil & Filter", "Mileage": 10000, "Months": 12 },
+            { "Name": "Air Filter", "Mileage": 20000, "Months": 12 },
+            { "Name": "Spark Plugs", "Mileage": 60000, "Months": null },
+            { "Name": "Brake Pads", "Mileage": 30000, "Months": null },
+            { "Name": "Brake Fluid", "Mileage": 40000, "Months": 24 },
+            { "Name": "Tyre Rotation", "Mileage": 10000, "Months": 12 },
+            { "Name": "Tyre Replacement", "Mileage": 50000, "Months": null },
+            { "Name": "Battery", "Mileage": null, "Months": 36 },
+            { "Name": "Coolant", "Mileage": 80000, "Months": 60 },
+            { "Name": "Transmission Fluid (Manual/CVT)", "Mileage": 60000, "Months": null },
+            { "Name": "Cabin Air Filter", "Mileage": 15000, "Months": 12 },
+            { "Name": "Suspension", "Mileage": 100000, "Months": null },
+            { "Name": "Timing Chain (Inspection)", "Mileage": 120000, "Months": null }
+        ]
+    },
+    {
+        "Make": "Renault",
+        "Model": "Clio",
+        "Version": "II",
+        "Year": 1997,
+        "Components": [
+            { "Name": "Engine Oil & Filter", "Mileage": 5000, "Months": 6 },
+            { "Name": "Air Filter", "Mileage": 15000, "Months": 12 },
+            { "Name": "Spark Plugs", "Mileage": 20000, "Months": null },
+            { "Name": "Brake Pads", "Mileage": 30000, "Months": null },
+            { "Name": "Brake Fluid", "Mileage": 40000, "Months": 24 },
+            { "Name": "Tyre Rotation", "Mileage": 10000, "Months": 12 },
+            { "Name": "Tyre Replacement", "Mileage": 40000, "Months": null },
+            { "Name": "Battery", "Mileage": null, "Months": 36 },
+            { "Name": "Coolant", "Mileage": 40000, "Months": 24 },
+            { "Name": "Transmission Fluid", "Mileage": 60000, "Months": null },
+            { "Name": "Cabin Air Filter", "Mileage": 20000, "Months": 12 },
+            { "Name": "Suspension", "Mileage": 90000, "Months": null }
+        ]
+    }
+]
