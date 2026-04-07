@@ -1,31 +1,47 @@
 [
   {
     "Name": "Shell",
-    "Options": [ 
+    "Products": [
       {
         "Type": "Unleaded (Regular)",
-        "Price": 58.45
+        "Prices": [
+          { "Cost": 66.20, "EffectiveFrom": "2024-01-28T00:00:00" },
+          { "Cost": 61.20, "EffectiveFrom": "2024-12-14T00:00:00" },
+          { "Cost": 58.45, "EffectiveFrom": "2025-11-04T00:00:00" }
+        ]
       },
       {
         "Type": "Unleaded (V-Power)",
-        "Price": 69.25
+        "Prices": [
+          { "Cost": 72.10, "EffectiveFrom": "2024-01-28T00:00:00" },
+          { "Cost": 69.00, "EffectiveFrom": "2024-12-14T00:00:00" },
+          { "Cost": 69.25, "EffectiveFrom": "2026-03-03T00:00:00" }
+        ]
       },
       {
         "Type": "Diesel (Regular)",
-        "Price": 64.80
+        "Prices": [
+          { "Cost": 63.95, "EffectiveFrom": "2024-01-28T00:00:00" },
+          { "Cost": 58.95, "EffectiveFrom": "2024-12-14T00:00:00" },
+          { "Cost": 64.80, "EffectiveFrom": "2026-03-03T00:00:00" }
+        ]
       }
     ]
   },
   {
     "Name": "Engen",
-    "Options": [ 
+    "Products": [
       {
         "Type": "Unleaded (Regular)",
-        "Price": 58.45
+        "Prices": [
+          { "Cost": 58.45, "EffectiveFrom": "2026-03-03T00:00:00" }
+        ]
       },
       {
         "Type": "Diesel (Regular)",
-        "Price": 64.80
+        "Prices": [
+          { "Cost": 64.80, "EffectiveFrom": "2026-03-03T00:00:00" }
+        ]
       }
     ]
   }
