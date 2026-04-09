@@ -1,0 +1,14 @@
+[
+  { "Name": "Engine Oil & Filter", "Mileage": 8000, "Months": 6 },
+  { "Name": "Air Filter", "Mileage": 15000, "Months": 12 },
+  { "Name": "Spark Plugs", "Mileage": 50000, "Months": null },
+  { "Name": "Brake Pads", "Mileage": 30000, "Months": null },
+  { "Name": "Brake Fluid", "Mileage": 30000, "Months": 24 },
+  { "Name": "Tyre Rotation", "Mileage": 8000, "Months": 6 },
+  { "Name": "Tyre Replacement", "Mileage": 40000, "Months": null },
+  { "Name": "Battery (12V)", "Mileage": null, "Months": 48 },
+  { "Name": "Coolant", "Mileage": 60000, "Months": 48 },
+  { "Name": "Transmission Fluid", "Mileage": 60000, "Months": null },
+  { "Name": "Cabin Air Filter", "Mileage": 12000, "Months": 12 },
+  { "Name": "Suspension", "Mileage": 80000, "Months": null }
+]
