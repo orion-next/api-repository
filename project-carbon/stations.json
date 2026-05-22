@@ -7,7 +7,8 @@
         "Prices": [
           { "Cost": 66.20, "EffectiveFrom": "2024-01-28T00:00:00" },
           { "Cost": 61.20, "EffectiveFrom": "2024-12-14T00:00:00" },
-          { "Cost": 58.45, "EffectiveFrom": "2025-11-04T00:00:00" }
+          { "Cost": 58.45, "EffectiveFrom": "2025-11-04T00:00:00" },
+          { "Cost": 64.25, "EffectiveFrom": "2026-04-16T00:00:00" }
         ]
       },
       {
@@ -15,7 +16,8 @@
         "Prices": [
           { "Cost": 72.10, "EffectiveFrom": "2024-01-28T00:00:00" },
           { "Cost": 69.00, "EffectiveFrom": "2024-12-14T00:00:00" },
-          { "Cost": 69.25, "EffectiveFrom": "2026-03-03T00:00:00" }
+          { "Cost": 69.25, "EffectiveFrom": "2026-03-03T00:00:00" },
+          { "Cost": 78.95, "EffectiveFrom": "2026-04-16T00:00:00" }
         ]
       },
       {
@@ -23,7 +25,8 @@
         "Prices": [
           { "Cost": 63.95, "EffectiveFrom": "2024-01-28T00:00:00" },
           { "Cost": 58.95, "EffectiveFrom": "2024-12-14T00:00:00" },
-          { "Cost": 64.80, "EffectiveFrom": "2026-03-03T00:00:00" }
+          { "Cost": 64.80, "EffectiveFrom": "2026-03-03T00:00:00" },
+          { "Cost": 71.25, "EffectiveFrom": "2026-04-16T00:00:00" }
         ]
       }
     ]
@@ -34,13 +37,15 @@
       {
         "Type": "Unleaded (Regular)",
         "Prices": [
-          { "Cost": 58.45, "EffectiveFrom": "2026-03-03T00:00:00" }
+          { "Cost": 58.45, "EffectiveFrom": "2026-03-03T00:00:00" },
+          { "Cost": 64.25, "EffectiveFrom": "2026-04-16T00:00:00" }
         ]
       },
       {
         "Type": "Diesel (Regular)",
         "Prices": [
-          { "Cost": 64.80, "EffectiveFrom": "2026-03-03T00:00:00" }
+          { "Cost": 64.80, "EffectiveFrom": "2026-03-03T00:00:00" },
+          { "Cost": 71.25, "EffectiveFrom": "2026-04-16T00:00:00" }
         ]
       }
     ]
